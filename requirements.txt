@@ -9,7 +9,7 @@ httpie==0.9.9
 idna==2.6
 jmespath==0.9.3
 pkg-resources==0.0.0
-Pygments==2.2.0
+Pygments==2.7.4
 python-dateutil==2.6.1
 requests==2.18.4
 s3transfer==0.1.11
